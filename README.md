@@ -3,7 +3,9 @@
 
 **Disclaimer: This template is strictly for authorized penetration testing and security research. Unauthorized use may violate legal and ethical guidelines. We are not liable for any misuse, damages, or legal consequences resulting from its use.**
 
-Evil Portal creates fake login pages that mimic real captive portals on public WiFi networks. When users try to connect, they’re asked to enter credentials—often for social media or email accounts—to gain access. Once they do, their login details are captured, and their traffic can be intercepted, setting them up for further exploitation.
+Evil Portal creates fake login pages that mimic real captive portals on public WiFi networks. When users try to connect, they’re asked to enter credentials—often for social media or email accounts—to gain access. Once they do, their login details are captured, and their traffic can be intercepted, setting them up for further exploitation. 
+
+**See Full Setup Instructions:** [WiFi Pineapple Hacking Tool: Guide to Setup and First Attack](https://darkmarc.substack.com/p/wifi-pineapple-hacking-tool-guide)
 
 ![Script](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXFuNzRzcTIxdm94Yml3ZTY1ZWo3cmFmM3pjZG9rejYzMDMxa3B3cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kCYDhFs4TSY0qmrtaC/giphy.gif)
 
